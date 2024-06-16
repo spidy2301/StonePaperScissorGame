@@ -55,7 +55,7 @@ img{
     font-size: 2rem;
     display: inline;
     padding: 1rem;
-    border-radius: 1rem;
+     /* border-radius: 1rem;  */
 }
 #user-score,#comp-score{
     font-size: 4rem;
